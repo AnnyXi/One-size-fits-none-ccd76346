@@ -1,0 +1,16 @@
+h1 {
+    font-size:xx-large;
+	color: blue;
+}
+span {
+		border: 1px solid blue;
+		background-color: yellow
+}
+h2 { 
+	font-size:medium;
+	color: red;
+}
+img.aot {
+			width: 20%;
+			height:20%; 
+}
